@@ -5,4 +5,4 @@
 📫 How to reach me ...
 Feel free to connect via email at brucevo158@gmail.com or on LinkedIn at www.linkedin.com/in/bruce-vo-76053a348.
 😄 Pronouns: He/Him
-⚡ Fun fact: I once debugged a tricky issue in a legacy system armed with nothing but console logs and sheer determination!
+⚡ Fun fact: I once debugged a tricky issue in a legacy system armed with nothing but console logs and sheer determination !
