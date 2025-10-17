@@ -40,11 +40,4 @@ You can find me at:
 
 ---
 
-### ⚡ A little story
-Once, I spent an entire night debugging a legacy system that refused to cooperate.  
-No fancy tools, no stack traces — just `console.log` and sheer stubbornness.  
-When it finally worked, it wasn’t just a fix — it was proof that patience *and caffeine* can solve almost anything.
-
----
-
 *Thanks for stopping by. I’m Bruce — just another builder trying to make the web a little better, one commit at a time.*
