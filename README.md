@@ -14,14 +14,6 @@ That curiosity turned into obsession, and now I spend my days designing and buil
 
 ---
 
-### 💡 What I believe
-I’ve learned that good development is equal parts logic and empathy.  
-You’re not just writing functions — you’re solving someone’s frustration, making their workflow smoother, or helping them see data in a way that suddenly makes sense.
-
-And honestly, that’s what keeps me coming back to the keyboard every day. It’s not about pushing code; it’s about *crafting experiences*.
-
----
-
 ### 🚀 Right now
 These days, I’m exploring:
 - How to make the web faster and simpler for real users  
