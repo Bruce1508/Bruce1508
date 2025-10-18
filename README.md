@@ -6,7 +6,7 @@ That spark hasn’t faded since.
 
 ---
 
-### 🌱 The journey so far
+### The journey so far
 I started out just wanting to build things — small, messy, half-working projects that somehow *did* something.  
 Then curiosity took over. I wanted to know *why* things worked, *how* systems connected, and *what* made a great user experience feel effortless.
 
@@ -14,7 +14,7 @@ That curiosity turned into obsession, and now I spend my days designing and buil
 
 ---
 
-### 🚀 Right now
+### Right now
 These days, I’m exploring:
 - How to make the web faster and simpler for real users  
 - How to design systems that are reliable but still flexible  
