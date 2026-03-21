@@ -6,21 +6,12 @@ That spark hasn’t faded since.
 
 ---
 
-### The journey so far
-I started out just wanting to build things — small, messy, half-working projects that somehow *did* something.  
-Then curiosity took over. I wanted to know *why* things worked, *how* systems connected, and *what* made a great user experience feel effortless.
-
-That curiosity turned into obsession, and now I spend my days designing and building full-stack web apps — not just to make things run, but to make them *feel right*.
-
----
-
-### Right now
-These days, I’m exploring:
-- How to make the web faster and simpler for real users  
-- How to design systems that are reliable but still flexible  
-- How to keep learning — even when I think I already “get it”
-
-Because the moment you stop learning in tech… you’re already behind.
+I build products for students who want their time back.
+Not because school is getting harder.
+Because most of the time, school is getting in the way.
+A lot of education today still confuses effort with progress.
+Students spend years buried in repetitive assignments, outdated systems, and busywork that drains energy without creating real growth.
+I’ve seen how much time people lose just trying to survive school - time that could’ve gone into building skills, exploring ideas, making money, starting projects, or simply living.
 
 ---
 
