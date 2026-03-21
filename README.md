@@ -1,17 +1,28 @@
 # 👋 Hey, I’m Bruce.
 
-When I wrote my first “Hello World,” I didn’t realize I was opening a door to something that would change how I see the world — one line of code at a time.  
-Back then, I wasn’t chasing fancy frameworks or perfect syntax. I was chasing that feeling of *“wow, this actually works.”*  
-That spark hasn’t faded since.
+## About me
+
+I build products for students who are tired of wasting their lives on school systems that confuse pressure with progress.
+
+Modern education overloads people with outdated work, fake productivity, and constant noise.  
+I’m here to build tools that cut through that — so students can learn what matters, move faster, and get their time back for real life.
 
 ---
 
-I build products for students who want their time back.
-Not because school is getting harder.
-Because most of the time, school is getting in the way.
-A lot of education today still confuses effort with progress.
-Students spend years buried in repetitive assignments, outdated systems, and busywork that drains energy without creating real growth.
-I’ve seen how much time people lose just trying to survive school - time that could’ve gone into building skills, exploring ideas, making money, starting projects, or simply living.
+I still remember writing my first `Hello World`.
+
+It was such a small thing, but seeing code actually do something because **I told it to** felt crazy to me.  
+That was probably the moment everything started.
+
+Back then, I didn’t care about fancy frameworks, perfect syntax, or any of that stuff.  
+I just liked the feeling of making things work.
+
+That feeling never really left.
+
+Over time, it became more than just “coding is cool.”  
+I started seeing tech as a way to actually fix things that waste people’s time, energy, and focus.
+
+That’s still the reason I build now.
 
 ---
 
@@ -23,4 +34,4 @@ You can find me at:
 
 ---
 
-*Thanks for stopping by. I’m Bruce — just another builder trying to make the web a little better, one commit at a time.*
+*Thanks for stopping by. I’m Bruce — just another builder trying to make the world a little better, one commit at a time.*
