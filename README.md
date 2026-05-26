@@ -1,30 +1,14 @@
-# 👋 Hey, I’m Bruce.
-
-## About me
-
-I build products for students who are tired of wasting their lives on school systems that confuse pressure with progress.
-
-Modern education overloads people with outdated work, fake productivity, and constant noise.  
-I’m here to build tools that cut through that — so students can learn what matters, move faster, and get their time back for real life.
+👋 Hey, I'm Bruce.
 
 ---
 
-I still remember writing my first `Hello World`.
+I build tools for students. Mostly because I was one, and the system wasted a lot of my time.
 
-It was such a small thing, but seeing code actually do something because **I told it to** felt crazy to me.  
-That was probably the moment everything started.
+Not dramatically. Just the usual — assignments that existed to exist, pressure dressed up as progress, busywork that crowded out anything real. I kept thinking someone should fix this. Eventually figured it might as well be me.
 
-Back then, I didn’t care about fancy frameworks, perfect syntax, or any of that stuff.  
-I just liked the feeling of making things work.
+I still remember my first `Hello World`. It was nothing. But seeing the machine do exactly what I told it to — I don't know, that felt like something. I didn't care about frameworks or clean code. I just liked making things work.
 
-That feeling never really left.
-
-Over time, it became more than just “coding is cool.”  
-I started seeing tech as a way to actually fix things that waste people’s time, energy, and focus.
-
-That’s still the reason I build now.
-
----
+That feeling never really left. It just got more specific: I want to build things that cut out the noise so students can actually focus on what matters. Not productivity tools. Just less wasted time.
 
 ### 🤝 Let’s connect
 If you’re building something exciting or just want to chat about ideas, I’d love to connect.  
