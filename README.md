@@ -30,7 +30,7 @@ That’s still the reason I build now.
 If you’re building something exciting or just want to chat about ideas, I’d love to connect.  
 You can find me at:  
 📧 [brucevo158@gmail.com](mailto:brucevo158@gmail.com)  
-💼 [linkedin.com/in/bruce-vo-76053a348](https://www.linkedin.com/in/bruce-vo-76053a348)
+💼 [linkedin.com/in/bruce-vo-76053a348](https://www.linkedin.com/in/brucevo/)
 
 ---
 
