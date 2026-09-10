@@ -1,21 +1,64 @@
-👋 Hey, I'm Bruce.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=181825&height=170&section=header&text=Bruce%20Vo&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=false" width="100%" alt="Bruce Vo"/>
+
+<p>
+  <a href="https://brucevo.vercel.app"><img src="https://img.shields.io/badge/-PORTFOLIO-6c7086?style=for-the-badge" alt="Portfolio"/></a><a href="https://brucevo.vercel.app"><img src="https://img.shields.io/badge/-brucevo.vercel.app-181825?style=for-the-badge" alt="brucevo.vercel.app"/></a>
+  <a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-LINKEDIN-6c7086?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-brucevo-181825?style=for-the-badge" alt="brucevo"/></a>
+  <a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-6c7086?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-brucevo158@gmail.com-181825?style=for-the-badge" alt="brucevo158@gmail.com"/></a>
+</p>
+
+</div>
 
 ---
 
-I build tools for students. Mostly because I was one, and the system wasted a lot of my time.
+## About Me
 
-Not dramatically. Just the usual — assignments that existed to exist, pressure dressed up as progress, busywork that crowded out anything real. I kept thinking someone should fix this. Eventually figured it might as well be me.
-
-I still remember my first `Hello World`. It was nothing. But seeing the machine do exactly what I told it to — I don't know, that felt like something. I didn't care about frameworks or clean code. I just liked making things work.
-
-That feeling never really left. It just got more specific: I want to build things that cut out the noise so students can actually focus on what matters. Not productivity tools. Just less wasted time.
-
-### 🤝 Let’s connect
-If you’re building something exciting or just want to chat about ideas, I’d love to connect.  
-You can find me at:  
-📧 [brucevo158@gmail.com](mailto:brucevo158@gmail.com)  
-💼 [linkedin.com/in/bruce-vo-76053a348](https://www.linkedin.com/in/brucevo/)
+- i build tools for students because i was tired of busywork dressed up as progress
+- i don't collect frameworks, i just like making things work
+- full-stack: next.js, typescript, node/express, postgresql
+- i'd rather ship something small than talk about something big
+- always down to talk ideas — reach out below
 
 ---
 
-*Thanks for stopping by. I’m Bruce — just another builder trying to make the world a little better, one commit at a time.*
+## Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,docker,tailwind,git,github,vercel" alt="Skills"/>
+
+</div>
+
+---
+
+## Hackathons
+
+<table>
+<tr>
+<th>2026</th>
+<th>2025</th>
+</tr>
+<tr>
+<td valign="top">
+
+- hacker @ SummerHacks
+- hacker @ Seneca Hackathon
+
+</td>
+<td valign="top">
+
+- hacker @ DeltaHacks
+- hacker @ Hack The Future
+- hacker @ Hack The 6ix
+- incoming @ Hack The North
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<i>Thanks for stopping by — I'm Bruce, still building, one commit at a time.</i>
+</div>
