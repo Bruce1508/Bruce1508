@@ -44,6 +44,7 @@
 
 - hacker @ SummerHacks
 - hacker @ Seneca Hackathon
+- incoming @ Hack The North
 
 </td>
 <td valign="top">
@@ -51,7 +52,9 @@
 - hacker @ DeltaHacks
 - hacker @ Hack The Future
 - hacker @ Hack The 6ix
-- incoming @ Hack The North
+- hacker @ NewHacks
+- hacker @ HackTrent
+- hacker @ Anthropic AI Toronto Hackathon
 
 </td>
 </tr>
