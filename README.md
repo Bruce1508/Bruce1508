@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=181825&height=170&section=header&text=Bruce%20Vo&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=false" width="100%" alt="Bruce Vo"/>
 
 <p>
-  <a href="https://brucevo.vercel.app"><img src="https://img.shields.io/badge/-PORTFOLIO-6c7086?style=for-the-badge" alt="Portfolio"/></a><a href="https://brucevo.vercel.app"><img src="https://img.shields.io/badge/-brucevo.vercel.app-181825?style=for-the-badge" alt="brucevo.vercel.app"/></a>
+  <a href="https://brucevo.vercel.app"><img src="https://img.shields.io/badge/-PORTFOLIO-6c7086?style=for-the-badge" alt="Portfolio"/></a><a href="https://www.brucevo.site"><img src="https://img.shields.io/badge/-brucevo.vercel.app-181825?style=for-the-badge" alt="brucevo.vercel.app"/></a>
   <a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-LINKEDIN-6c7086?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-brucevo-181825?style=for-the-badge" alt="brucevo"/></a>
   <a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-6c7086?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-brucevo158@gmail.com-181825?style=for-the-badge" alt="brucevo158@gmail.com"/></a>
 </p>
