@@ -50,7 +50,6 @@
 <td valign="top">
 
 - hacker @ DeltaHacks
-- hacker @ Hack The Future
 - hacker @ Hack The 6ix
 - hacker @ NewHacks
 - hacker @ HackTrent
@@ -61,7 +60,3 @@
 </table>
 
 ---
-
-<div align="center">
-<i>Thanks for stopping by — I'm Bruce</i>
-</div>
