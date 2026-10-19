@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=181825&height=170&section=header&text=Bruce%20Vo&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=false" width="100%" alt="Bruce Vo"/>
-
-</div>
-
----
-
 Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/Express, PostgreSQL), and I'm a semi-pro pool player on the side. [brucevo.site](https://brucevo.site) · [linkedin](https://www.linkedin.com/in/brucevo/) · [email](mailto:brucevo158@gmail.com)
 
 ---
@@ -13,7 +5,7 @@ Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/
 <table align="center">
 <tr>
 <td valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bruce1508&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&bg_color=1a1b27&title_color=ec4899&text_color=f4a261&icon_color=f4a261&custom_title=Stats" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bruce1508&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&bg_color=1a1b27&title_color=ec4899&text_color=f4a261&icon_color=f4a261&custom_title=Stats&hide_rank=true" alt="GitHub Stats"/>
 </td>
 <td valign="top" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce1508&layout=donut&hide_border=false&border_color=30363d&border_radius=12&bg_color=1a1b27&title_color=ec4899&text_color=f4a261&card_width=320&custom_title=Top+Languages+by+Repo" alt="Top Languages"/>
