@@ -21,12 +21,16 @@ Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/
 
 1. [beyond90](https://github.com/Bruce1508/beyond90) (Java, Next.js)
    - Evidence-first 3D football intelligence on synthetic data, built with Spring Boot + Next.js/R3F + Microsoft Foundry.
-2. [reviewSignal](https://github.com/Bruce1508/reviewSignal) (Python)
-   - AI customer intelligence platform: turns Google Business reviews into an evolving taxonomy, aspect-level sentiment, and evidence-grounded actions.
-3. [RootLens](https://github.com/Bruce1508/RootLens) (Python)
-   - Local-first AI business analyst that investigates why a metric changed via a bounded loop; every claim cites the SQL and rows behind it.
-4. [respiralab](https://github.com/Bruce1508/respiralab) (Python)
+2. [bb-cli](https://github.com/Bruce1508/bb-cli) (Python)
+   - Terminal CLI for Blackboard LMS: syncs deadlines, grades, and announcements to a local DB, then answers questions about them in plain English. Published on PyPI.
+3. [VisionArcade](https://github.com/Bruce1508/VisionArcade) (Java)
+   - Turns a live webcam feed into a real-time arcade controller using local ONNX pose and object detection, no backend or cloud inference required.
+4. [hacktheHill](https://github.com/Bruce1508/hacktheHill) (Python)
+   - Backtrace: an evidence-first root-cause engine that clusters telecom complaint backlogs into a handful of shared incidents. Built for the Ciena track at Hack the Hill 2026.
+5. [respiralab](https://github.com/Bruce1508/respiralab) (Python)
    - Reproducible respiratory-cycle sound classifier (Normal/Crackle/Wheeze/Both) on the ICBHI 2017 dataset.
+6. [reviewSignal](https://github.com/Bruce1508/reviewSignal) (Python)
+   - AI customer intelligence platform: turns Google Business reviews into an evolving taxonomy, aspect-level sentiment, and evidence-grounded actions.
 
 ---
 
