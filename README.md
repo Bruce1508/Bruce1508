@@ -26,10 +26,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F9E2AF&height=50&section=header&text=Tech%20Stack&fontSize=20&fontColor=181825&fontAlignY=60&animation=false" width="100%" alt="Tech Stack"/>
-
-<br/>
-
 <table>
 <tr>
 <th>Languages</th>
@@ -65,12 +61,6 @@
 ---
 
 ## Hackathons
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F9E2AF&height=50&section=header&text=Hackathons&fontSize=20&fontColor=181825&fontAlignY=60&animation=false" width="100%" alt="Hackathons"/>
-
-</div>
 
 <table>
 <tr>
