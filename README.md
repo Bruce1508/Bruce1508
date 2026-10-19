@@ -18,23 +18,13 @@
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages:** <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/>
-
-**Frontend:** <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/>
-
-**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/>
-
-**Database:** <img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/>
-
-**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/>
-
-**Cloud & DevOps:** <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/>
-
-**Tooling:** <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/>
-
-</div>
+- **Languages** - TypeScript, JavaScript, Java, C++, Python, Bash
+- **Frontend** - React, React Native, Next.js, Tailwind, Redux, Sass, Vite, Three.js
+- **Backend** - Node.js, Express, FastAPI, Flask, Django, Nodemon
+- **Database** - PostgreSQL, Prisma, SQLite, MongoDB, MySQL, DynamoDB, Redis
+- **AI / ML** - PyTorch, OpenCV
+- **Cloud & DevOps** - AWS, Cloudflare, Netlify, Vercel, Docker, Nginx, Jenkins, Kubernetes
+- **Tooling** - Git, GitHub, Figma, VS Code, ESLint, Yarn, Firebase, Elasticsearch, Markdown
 
 ---
 
