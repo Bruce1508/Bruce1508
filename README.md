@@ -20,26 +20,26 @@
 
 <div align="center">
 
-<table>
-<tr>
-<th>Languages</th>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Database</th>
-<th>AI / ML</th>
-<th>Cloud & DevOps</th>
-<th>Tooling</th>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/></td>
-</tr>
-</table>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/>
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/>
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/>
+
+**Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/>
 
 </div>
 
