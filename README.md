@@ -32,6 +32,17 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bruce1508&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=cdd6f4&text_color=6c7086&icon_color=6c7086&ring_color=6c7086" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Bruce1508&hide_border=true&background=00000000&ring=6c7086&fire=6c7086&currStreakLabel=6c7086&currStreakNum=cdd6f4&sideLabels=6c7086&sideNums=cdd6f4&dates=6c7086&stroke=6c7086" height="165" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ## Hackathons
 
 <table>
