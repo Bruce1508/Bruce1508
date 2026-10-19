@@ -20,7 +20,7 @@ Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/
 ## Recent Projects
 
 1. [beyond90](https://github.com/Bruce1508/beyond90) (Java, Next.js)
-   - Evidence-first 3D football intelligence on synthetic data — Spring Boot + Next.js/R3F + Microsoft Foundry.
+   - Evidence-first 3D football intelligence on synthetic data, built with Spring Boot + Next.js/R3F + Microsoft Foundry.
 2. [reviewSignal](https://github.com/Bruce1508/reviewSignal) (Python)
    - AI customer intelligence platform: turns Google Business reviews into an evolving taxonomy, aspect-level sentiment, and evidence-grounded actions.
 3. [RootLens](https://github.com/Bruce1508/RootLens) (Python)
@@ -36,7 +36,7 @@ Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/
 DeltaHacks → Hack The 6ix → NewHacks → HackTrent → Anthropic AI Toronto Hackathon
 
 **2026**
-SummerHacks → Seneca Hackathon → **Hack The North** *(incoming)*
+SummerHacks → Seneca Hackathon → Hack The North → Hack The Hill
 
 ---
 
