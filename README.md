@@ -22,11 +22,28 @@
 
 ---
 
-## Skills
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,docker,tailwind,git,github,vercel" alt="Skills"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F9E2AF&height=50&section=header&text=Tech%20Stack&fontSize=20&fontColor=181825&fontAlignY=60&animation=false" width="100%" alt="Tech Stack"/>
+
+<br/>
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="Database"/>
+
+**Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="Tooling"/>
 
 </div>
 
@@ -45,6 +62,12 @@
 
 ## Hackathons
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F9E2AF&height=50&section=header&text=Hackathons&fontSize=20&fontColor=181825&fontAlignY=60&animation=false" width="100%" alt="Hackathons"/>
+
+</div>
+
 <table>
 <tr>
 <th>2026</th>
@@ -55,7 +78,7 @@
 
 - hacker @ SummerHacks
 - hacker @ Seneca Hackathon
-- incoming @ Hack The North
+- **incoming** @ Hack The North
 
 </td>
 <td valign="top">
