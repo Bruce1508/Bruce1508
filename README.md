@@ -20,26 +20,19 @@
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/>
+**Languages:** <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/>
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/>
+**Frontend:** <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/>
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/>
+**Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/>
 
-**Database**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/>
+**Database:** <img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/>
 
-**AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/>
+**AI / ML:** <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/>
 
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/>
+**Cloud & DevOps:** <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/>
 
-**Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/>
+**Tooling:** <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/>
 
 </div>
 
