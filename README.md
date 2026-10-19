@@ -30,20 +30,24 @@
 
 <br/>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js" alt="Languages"/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
-
-**Database**<br/>
-<img src="https://skillicons.dev/icons?i=postgres" alt="Database"/>
-
-**Tooling**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="Tooling"/>
+<table>
+<tr>
+<th>Languages</th>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Database</th>
+<th>AI / ML</th>
+<th>Tooling</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts,js,python" alt="Languages"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite" alt="Database"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" alt="AI / ML"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,vscode" alt="Tooling"/></td>
+</tr>
+</table>
 
 </div>
 
