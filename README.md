@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=181825&height=170&section=header&text=Bruce%20Vo&fontSize=64&fontColor=ffffff&fontAlignY=45&animation=false" width="100%" alt="Bruce Vo"/>
 
-<p>
-  <a href="https://brucevo.site"><img src="https://img.shields.io/badge/-PORTFOLIO-6c7086?style=for-the-badge" alt="Portfolio"/></a><a href="https://www.brucevo.site"><img src="https://img.shields.io/badge/-brucevo.vercel.app-181825?style=for-the-badge" alt="brucevo.vercel.app"/></a>
-  <a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-LINKEDIN-6c7086?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.linkedin.com/in/brucevo/"><img src="https://img.shields.io/badge/-brucevo-181825?style=for-the-badge" alt="brucevo"/></a>
-  <a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-6c7086?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="mailto:brucevo158@gmail.com"><img src="https://img.shields.io/badge/-brucevo158@gmail.com-181825?style=for-the-badge" alt="brucevo158@gmail.com"/></a>
-</p>
-
 </div>
 
 ---
@@ -18,7 +12,7 @@
 - i don't collect frameworks, i just like making things work
 - full-stack: next.js, typescript, node/express, postgresql
 - i'd rather ship something small than talk about something big
-- always down to talk ideas - reach out below
+- always down to talk ideas - [brucevo.site](https://brucevo.site) · [linkedin](https://www.linkedin.com/in/brucevo/) · [email](mailto:brucevo158@gmail.com)
 
 ---
 
@@ -33,15 +27,17 @@
 <th>Backend</th>
 <th>Database</th>
 <th>AI / ML</th>
+<th>Cloud & DevOps</th>
 <th>Tooling</th>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts,js,python" alt="Languages"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite" alt="Database"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" alt="AI / ML"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma,vscode" alt="Tooling"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts,js,java,cpp,python,bash" alt="Languages"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,redux,sass,vite,threejs" alt="Frontend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,nodemon" alt="Backend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres,prisma,sqlite,mongodb,mysql,dynamodb,redis" alt="Database"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI / ML"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,nginx,jenkins,kubernetes" alt="Cloud & DevOps"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,eslint,yarn,firebase,elasticsearch,md" alt="Tooling"/></td>
 </tr>
 </table>
 
@@ -62,29 +58,18 @@
 
 ## Hackathons
 
-<table>
-<tr>
-<th>2026</th>
-<th>2025</th>
-</tr>
-<tr>
-<td valign="top">
+**2025**
+DeltaHacks → Hack The 6ix → NewHacks → HackTrent → Anthropic AI Toronto Hackathon
 
-- hacker @ SummerHacks
-- hacker @ Seneca Hackathon
-- **incoming** @ Hack The North
+**2026**
+SummerHacks → Seneca Hackathon → **Hack The North** *(incoming)*
 
-</td>
-<td valign="top">
+---
 
-- hacker @ DeltaHacks
-- hacker @ Hack The 6ix
-- hacker @ NewHacks
-- hacker @ HackTrent
-- hacker @ Anthropic AI Toronto Hackathon
+## Fun Facts
 
-</td>
-</tr>
-</table>
+- football fan - rarely miss a match
+- shoe collector - 20+ pairs and counting
+- semi-pro pool player
 
 ---
