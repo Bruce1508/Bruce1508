@@ -13,10 +13,10 @@ Hi, I'm Bruce. I build full-stack tools for students (Next.js, TypeScript, Node/
 <table align="center">
 <tr>
 <td valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bruce1508&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=cdd6f4&text_color=6c7086&icon_color=6c7086&ring_color=6c7086" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bruce1508&show_icons=true&hide_border=false&border_color=30363d&border_radius=12&bg_color=1a1b27&title_color=ec4899&text_color=f4a261&icon_color=f4a261&custom_title=Stats" alt="GitHub Stats"/>
 </td>
 <td valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce1508&layout=donut&hide_border=true&bg_color=00000000&title_color=cdd6f4&text_color=6c7086&card_width=320" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce1508&layout=donut&hide_border=false&border_color=30363d&border_radius=12&bg_color=1a1b27&title_color=ec4899&text_color=f4a261&card_width=320&custom_title=Top+Languages+by+Repo" alt="Top Languages"/>
 </td>
 </tr>
 </table>
